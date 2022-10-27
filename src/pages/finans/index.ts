@@ -1,0 +1,1 @@
+export { Finans } from "./finans";

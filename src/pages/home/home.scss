@@ -1,0 +1,21 @@
+.news {
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.news-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.news-link {
+  text-decoration-line: underline;
+
+  color: #002bc5;
+}
